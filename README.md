@@ -1,8 +1,13 @@
 #Задача: сверстать форму, сделать валидацию полей, по нажатию кнопку Next в alert вывести json объект.
+
 Требования: 
+
 	•	Нейминг полей соответствует лейблам на макете, в JSON дать название с camel case (username, dropdownTitle, radioSelection)
+ 
 	•	Кнопка Next заблокирована при пустом или невалидном значении полей.
-Дизайн: https://www.figma.com/file/bLzZ6kpaTQzjpWrHFfo2Ra/Flexible-Form-Template-(Community)?node-id=0%3A1
+ 
+Дизайн: 
+https://www.figma.com/file/bLzZ6kpaTQzjpWrHFfo2Ra/Flexible-Form-Template-(Community)?node-id=0%3A1
 
 
 # Getting Started with Create React App
